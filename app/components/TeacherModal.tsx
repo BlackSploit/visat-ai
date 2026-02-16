@@ -52,12 +52,12 @@ export default function TeacherModal({
   const virtualAgentLink = `/virtual-agent-chat?assistantId=${assistantId}&teacher=${encodeURIComponent(JSON.stringify(teacher))}`;
 
 return (
-  <div className="fixed inset-0 z-[999] flex items-center justify-center bg-black/80 backdrop-blur-sm px-4">
+  <div className="fixed inset-0 z-[999] flex items-center justify-center bg-black/80 backdrop-blur-sm p-4">
     
-    <div className="relative w-full max-w-3xl rounded-xl border border-white/10 bg-[#111111] text-white shadow-xl overflow-hidden animate-modal-open">
+    <div className="relative w-full max-w-3xl max-h-[90vh] overflow-y-auto rounded-xl border border-white/10 bg-[#111111] text-white shadow-xl animate-modal-open">
       
       {/* Header */}
-      <div className="flex items-center justify-between px-5 py-4 border-b border-white/10">
+      <div className="flex items-center justify-between px-4 sm:px-5 py-4 border-b border-white/10">
         <div>
           <h2 className="text-base sm:text-lg font-semibold">
             {teacher.name}
@@ -81,7 +81,7 @@ return (
         {/* Video Preview */}
         <div className="bg-black flex items-center justify-center p-4">
           {!hasVideoError ? (
-            <div className="w-full max-w-[280px] sm:max-w-[320px] aspect-[720/1000]">
+            <div className="w-full max-w-[260px] sm:max-w-[300px] md:max-w-[320px] aspect-[3/4]">
               <video
                 ref={videoRef}
                 src={teacher.fullVideo}
@@ -98,9 +98,9 @@ return (
         </div>
 
         {/* AI Description */}
-        <div className="p-5 sm:p-6 space-y-5">
+        <div className="p-4 sm:p-6 space-y-5 ">
           
-          <div>
+          <div className="hidden md:block">
             <h3 className="text-sm font-semibold text-neutral-300 mb-2">
               About this RAG Virtual Agent
             </h3>
@@ -149,6 +149,7 @@ return (
     `}</style>
   </div>
 );
+
 
 
 }
