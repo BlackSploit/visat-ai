@@ -1,0 +1,257 @@
+Structure of BTech Programme
+The duration of the B. Tech. Programme shall be 4 years (8 semesters). 
+There are four options for completing a B. Tech
+“B. Tech.” in an Engineering Major 
+Discipline. 170 Credits,
+[167 Academic Credits (as per R 7.22) +    
+3 credits from student activities] 
+“B. Tech. with Minor”  
+(Minor in any Discipline, other than 
+the Major Discipline), 185 Credits 
+[170 Credits (B. Tech.) +  
+15 Credits   for Minor Coursework]  
+B. Tech. with Honours” 
+ (Specialization within the Major 
+Discipline), 185 Credits 
+[170 Credits (B. Tech.) +  
+15 Credits for Honours Coursework] 
+“B. Tech. with Honours and Minor, 200 Credits 
+[170 Credits (B. Tech.) +  
+15 Credits   for Honours Coursework+ 
+15 Credits   for Minor Coursework] 
+Minimum Credits for Graduation: Students who acquire at least 160 credits (157 
+academic credits + 3 Mandatory credits from student activities) after the 
+completion of the normal programme duration of eight semesters shall be 
+eligible for the B. Tech. Degree. 
+Credit Shortfall Allowance: This policy allows students to graduate even if they 
+are unable to earn credits for courses totalling up to 10 credits. 
+Exclusions from Credit Relaxation: The credit relaxation does not apply to 
+Seminar, Mini Project, and Project/Internship, all of which are mandatory and 
+must be completed to qualify for graduation. 
+Credits earned for Minor will not be considered towards the 160-credit minimum 
+requirement. 
+Impact on CGPA due to unacquired credits: For courses where a student is 
+unable to earn credits under the credit relaxation policy, a grade point of '0' will 
+be assigned. This zero-point value will be factored into the calculation of both 
+the Semester Grade Point Average (SGPA) and the Cumulative Grade Point 
+Average (CGPA), potentially resulting in a reduction of the overall CGPA. 
+Despite a potential reduction in CGPA due to assigned zero-grade points, 
+students who successfully acquire the minimum 160 credits will be eligible for 
+graduation under this regulation, provided they fulfil all other requirements as 
+outlined in R 11. 
+Credits for Minimum Requirement (160 Credits): If a student has not acquired 
+the 160 credits required for the B.Tech. degree as per the credit relaxation policy, 
+the credits earned from Honours theory courses, along with the extra 2 credits 
+from Level 5 courses, will count towards fulfilling the 160 credits (157 academic 
+credits + 3 credits from student activities) requirement for the B.Tech. degree.
+These additional credits will also be included in the calculation of both the SGPA 
+and the CGPA.  
+Students who benefit from this credit consideration will not be eligible for the 
+award of the B. Tech. degree with Honours. 
+Academic Year Structure: Every academic year is structured to include: an Odd semester, an Even semester, and 
+a Summer semester. The Summer semester, typically scheduled during the months of 
+May and June, provides students with the opportunity to engage in internships or 
+pursue additional skill courses to enhance their academic and professional 
+development. 
+Minimum Working Days: • Each semester shall have a minimum of 90 working days out of which 65 days 
+shall be instructional days. 
+• In the event that holidays are declared by the district collector or the state 
+government, the institutions are required to reschedule the lost instructional days 
+within the same semester, including Saturdays, to ensure the timely completion 
+of the syllabus.
+The academic activities in a semester shall normally include the following: 
+• Commencement and completion of the semester 
+• Semester enrolment dates 
+• Course selection and mapping dates 
+• University exam registration dates 
+• Schedule of Internal examinations 
+• Date of publishing of attendance and internal marks 
+• Schedule of End Semester examinations 
+• Dates of Extra/Co-curricular activities.  
+• Submission of Student activity points 
+• Dates of Internal and External academic audit 
+• Internship dates/Vacation dates.
+A curriculum refers to a structured and prescribed list of courses within a programme, 
+organized in a specific format. It outlines the academic pathway for a particular 
+programme and includes courses categorized under various heads, such as University 
+Core, University Elective, Programme Core, Programme Elective, Open Elective etc. 
+This structured approach ensures that students receive a comprehensive education, 
+covering essential courses/subjects while also providing options for specialized study 
+within their chosen field. 
+A syllabus is a comprehensive document that outlines the learning objectives, content, 
+and structure of a specific course. It includes essential details such as the course title, 
+course code, course type, and delivery modes—Teaching Hours/Week (L-T-P-R). 
+Additionally, it specifies the credits assigned to the course, Continuous Internal 
+Evaluation (CIE) Marks, End Semester Examination (ESE) Marks, exam duration, 
+and prerequisites.  
+The syllabus also provides the course objectives, expected course outcomes (CO), 
+CO-Programme Outcome (PO) mapping, prescribed textbooks, reference materials, 
+assessment patterns, and question paper format (where applicable). This document 
+serves as a guide for both students and instructors, detailing the learning expectations 
+and assessment methods for the course.
+The syllabus for any course shall typically be updated once in every four years. 
+However, innovative elective courses, open electives, industry-linked electives, 
+and industry-linked minors may be introduced as needed.  
+ii. The syllabus of any course offered in the curriculum can be modified or updated 
+based on technological changes and emerging requirements.  In any case, the 
+modifications to core courses shall not exceed 30%.  
+iii. All syllabus revisions shall be made exclusively on the recommendations of the 
+relevant Board of Studies (BoS) and are subject to the approval of the Academic 
+Council, with subsequent reporting to the Syndicate and the Board of Governors. 
+The academic programmes of the University are based on credit system. The 
+curriculum for any branch of the B. Tech. Programme shall comprise a total of 170 
+credits, which includes 167 academic credits and 3 mandatory student activity-based 
+credits. 
+Credits shall be awarded for all courses listed in the curriculum. Courses in the 
+curriculum are classified into 1, 2, 3, or 4 credit courses based on the chosen content 
+delivery method and the desired depth of the course.  
+The delivery methods include Theory only, Theory with Tutorial, Theory with 
+Lab/Practice, Theory with Project, Lab only and Massive Open Online Courses 
+(MOOC). The L-T-P-R notation for each course signifies the allocation of hours for 
+content delivery in terms of Lecture (L), Tutorial (T), Practical (P), and Project (R) 
+per week. 
+Self-Study Hours (SS): In addition to lecture, tutorial, practical/practice, and project 
+hours, the curriculum includes Self Study Hours. Self-Study Hours refer to the time 
+students are expected to dedicate to independent learning activities outside of 
+scheduled classroom instruction.  
+These activities may include reviewing lecture notes, completing assignments, 
+engaging in further reading, practicing problems, or working on projects without 
+direct guidance from instructors or tutors. The Self Study Hours per week for each 
+course are calculated as:   
+SS Hours= 1.5 L + 0.5 T + 0.5 P + R 
+Continuous Internal Evaluation (CIE) for Level 5 Courses: 
+Viva Component: A viva component shall be included in the Continuous Internal 
+Evaluation for Level 5 courses. The viva will be conducted with an external subject 
+expert, who must be a faculty member from another college affiliated with KTU. The 
+viva shall be conducted during the last week of the semester in which the course is 
+offered. 
+There will be only one internal examination for Level 5 courses, with the internal 
+mark distribution as follows: 
+i. Attendance: 5 Marks 
+ii. Internal Examination: 15 Marks 
+iii. Assessment of Bloom's Taxonomy Levels: 
+▪ Analyze: 5 Marks 
+▪ Evaluate: 5 Marks 
+iv. Viva: 10 Marks 
+Maximum Duration for the Completion of B. Tech. Programme 
+Additional Grace Period: If a student has backlog courses remaining after the normal course duration 
+of four years, the student will be permitted an additional grace period of two 
+years to complete all courses and credit requirements specified in the curriculum. 
+Automatic Cancellation: After this period, the student's registration will be automatically cancelled 
+unless an extension is granted by the university. No separate intimation 
+regarding this cancellation will be sent to the student.
+Academic Mentoring and Student Support 
+Each class shall be assigned a dedicated SFA and multiple FAs to provide 
+focused guidance to students.  
+The Principal, in consultation with the Head of the Department (HoD), shall 
+designate a regular faculty member with a minimum of five years teaching 
+experience as the SFA. To ensure optimal attention, an SFA shall be assigned 
+to only one class.
+Each FA shall be responsible for overseeing the academic progress, well-being, 
+and guidance of 25 to 35 students within their assigned class. 
+Faculty members with less than five years of experience may be appointed as 
+SFA only if more experienced faculty members are not available within the 
+department. 
+If there are insufficient faculty members to serve as Faculty Advisors (FAs), 
+faculty from Science or Humanities disciplines may also be considered for these 
+positions to ensure adequate support and guidance for students.
+Regular communication with the parents of students regarding progress in 
+academic matters and other general issues shall be the responsibility of the 
+SFA/FA.
+The documents concerning all curricular and co-curricular matters of students under 
+an advisory group shall be maintained under the custody of the SFA or FA.  
+Communication Protocol for Student and Parent Requests: 
+i. Students and parents are required to seek advice, clarifications, and permissions 
+regarding academic matters from their SFA or FA.  
+ii. All requests or applications from individual students or parents to college or 
+university administrators must first be reviewed and recommended by their SFA 
+or FA. The HoDs shall then forward these recommendations to the principal for 
+further action. 
+iii. The institution is responsible for providing the necessary guidance, 
+clarifications, and advice to students and parents in accordance with the 
+prevailing academic regulations. 
+iv. The SFA shall organize separate or combined meetings with advisors, course 
+faculty, parents, and students to discuss students' academic progress and provide 
+guidance on academic, non-academic, and personal issues.  
+Course Faculty Major Responsibilities: 
+i. Compliance with Regulations: The course faculty shall adhere to all regulations 
+and syllabus requirements related to the teaching of the course and the 
+evaluation of students. 
+ii. Record Maintenance: The course faculty is responsible for maintaining all 
+relevant records for the course, including answer books, attendance, and other 
+essential documents of the students enrolled in the course. 
+iii.  Conduct of Classes: The faculty shall conduct classes according to the 
+University Academic Calendar and the teaching/learning timetable issued by 
+the Head of Department. 
+iv. Course and Evaluation Plan Distribution: The course faculty shall provide a 
+course plan and evaluation plan, including course objectives and background 
+materials, to all students within the first week of the semester. 
+v. Evaluation Plan Preparation: The faculty shall develop a detailed evaluation 
+plan that outlines how students' performance will be assessed throughout the 
+course. 
+vi. Documentation and Communication of Performance: The course faculty is 
+responsible for documenting student performance and ensuring timely 
+communication of results to students, including posting results on notice 
+boards as stipulated by the University's regulations.
+Reporting to HOD: The faculty shall report monthly to the HOD on cases of 
+poor academic performance or low attendance, which may result in a ‘FE’ 
+grade at the end of the semester.
+Class Committee and Class PTA Meetings 
+i. Class Committee Formation: 
+• For every class, a class committee shall be constituted by the Head of 
+department, as given below:  
+▪ Chairperson: Senior Faculty Advisor 
+▪ Faculty Members- A senior faculty member from another 
+department who is generally not teaching that particular class, along 
+with the Faculty Advisors. 
+▪ Student members: A minimum of eight student representative from 
+all genders. 
+ii. Class Committee Meetings: 
+• The class committee shall convene at least twice during the semester to: 
+▪ Interact and express opinions and suggestions to improve the 
+effectiveness of the teaching-learning process. 
+▪ Analyze the performance of the students in assessments and discuss 
+ways to address any problems. 
+▪ Discuss other problems faced by the students in classrooms, 
+laboratories, and within the college. 
+• The first meeting shall be held within two weeks from the date of 
+commencement of the semester.  
+• The second meeting shall be held after the announcement of first internal 
+examination results. 
+iii. Class PTA Meetings: 
+• Each class shall conduct a Parent-Teacher Association (PTA) meeting at 
+least once per semester. In situations where physical meetings are not 
+possible, class PTA meetings may also be conducted in online mode. 
+• The PTA meeting should be scheduled after the first internal examination 
+results are announced, allowing for a comprehensive discussion of students' 
+academic progress, attendance and addressing any academic or non
+academic issues faced by students.
+ The meeting shall include the following participants: 
+▪ HOD, SFA, FAs and Faculty Members 
+▪ Parents/Guardians of the students 
+• Any actionable items or concerns raised during the PTA meeting should be 
+addressed promptly by the concerned faculty, HoD, or college 
+administration. 
+Internal Marks and Attendance Display: 
+• Internal marks, course-wise attendance percentages, and activity points 
+shall be uploaded to the University portal only after they have been 
+displayed on the department notice board for at least two working days.
+Any concerns raised by students regarding internal marks, attendance, or 
+activity points shall be addressed in class committee meetings. The 
+HoD/Dean/Principal shall ensure that proper resolutions are made. 
+The SFA shall maintain minutes and action taken reports for all meetings.
+These records must be approved by the HoD and Principal and be made 
+available to academic auditors and the University upon request.  
+Maintenance of Student Records: 
+The SFA/FA shall maintain a hard copy of the consolidated statement of 
+attendance, internal marks, and activity points for the students in their advisory 
+group.  
+These documents must be kept with the Head of Department (HoD) at all times 
+to ensure they are readily available for any inspections. 
+The Principal shall inform and forward all regulations, amendments, guidelines, 
+academic Calendars, circulars, announcements, etc., issued by the University 
+regarding student academic and other matters to the HoDs and faculty/staff 
+members for their information and timely action.  
+The SFA/FA shall ensure that all relevant information is communicated to the 
+students to facilitate the timely completion of all academic activities as per the 
+schedule published by the college and University.

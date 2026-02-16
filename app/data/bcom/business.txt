@@ -1,0 +1,128 @@
+MINOR: BUSINESS STUDIES
+
+SEMESTER 1
+Course Code: MG1DSCBST100
+Course Title: MARKETING MANAGEMENT
+Course Type: DSC B
+Credits: 4
+Hours/Week: 5 (Lecture: 3, Practical: 2)
+
+Course Summary:
+Understanding marketing concepts, principles, evolving trends, and real-world marketing practices.
+
+Course Outcomes:
+1. Understand marketing concepts, opportunities, and challenges
+2. Understand marketing environment and value chain
+3. Apply segmentation, targeting, and positioning
+4. Analyze product development strategies
+5. Develop marketing strategies (Product, Price, Promotion, Place)
+6. Understand marketing trends and strategy adaptation
+
+Key Modules:
+- Marketing concepts and evolution
+- Marketing environment (Micro & Macro)
+- Marketing 1.0 to 5.0
+- Value Chain
+- Marketing Mix
+- STP (Segmentation, Targeting, Positioning)
+- Product Life Cycle
+- Branding, Packaging, Pricing
+- Distribution, Logistics, Retailing
+- Promotion Mix, Advertising, Sales Promotion
+- Role Plays, Case Studies, Field Work
+
+Assessment:
+CCA: 30 Marks
+End Semester Exam: 70 Marks (MCQs)
+
+References:
+- Sherlekar & Krishnamoorthy – Marketing Management
+- Philip Kotler – Marketing Management
+- Rajan Saxena – Marketing Management
+
+SEMESTER 2
+--------------------------------------------------
+Course Code: MG2DSCBST100
+Course Title: BUSINESS AND SUSTAINABLE DEVELOPMENT
+Course Type: DSC B
+Credits: 4
+
+Course Summary:
+Understanding sustainability, SDGs, green business practices, and sustainable finance.
+
+Course Outcomes:
+1. Understand sustainability practices
+2. Apply Sustainable Development Goals
+3. Evaluate sustainable finance strategies
+4. Apply sustainable business practices
+
+Key Modules:
+- Business Environment & Sustainability
+- Sustainable Development Goals (SDGs)
+- Role of Business in Sustainability
+- Green Marketing
+- Sustainable Finance (Green Bonds, Carbon Credits)
+- Green Accounting & Sustainability Reporting
+- Case Studies, Projects, Exhibitions
+
+Assessment:
+CCA: 30 Marks
+End Semester: Project + Viva (70 Marks)
+
+References:
+- UNDP Resources
+- Sustainable Development Literature
+- Government & Sustainability Publications
+
+SEMESTER 3
+--------------------------------------------------
+Course Code: MG3DSCBST200
+Course Title: ENTREPRENEURSHIP AND STARTUPS
+Course Type: DSC B
+Credits: 4
+
+Course Summary:
+Developing entrepreneurial mindset, business idea creation, startup funding, and business planning.
+
+Course Outcomes:
+1. Understand entrepreneurship concepts
+2. Analyze business models
+3. Manage startup finance
+4. Understand government and incubation support
+5. Develop startup ideas
+
+Key Modules:
+- Entrepreneurship fundamentals
+- Entrepreneurial mindset
+- Business Models (B2B, B2C, SaaS, Subscription)
+- Ideation Techniques (SWOT, Brainstorming, SCAMPER)
+- Business Plan Development
+- Pitching & Funding (Angel, VC, Crowdfunding)
+- Startup India, Kerala Startup Mission
+- Registration of businesses
+- Case Studies & Startup Visits
+
+Assessment:
+CCA: 30 Marks
+End Semester Exam: 70 Marks (Case Study + Project)
+
+References:
+- Peter Thiel – Zero to One
+- Eric Ries – Lean Startup
+- Drucker – Innovation & Entrepreneurship
+
+SEMESTER 4
+--------------------------------------------------
+Course Code: MG4DSCBST200
+Course Title: ENTREPRENEURSHIP AND STARTUPS
+Course Type: DSC C
+Credits: 4
+
+Content similar to Semester 3 with advanced practice, deeper startup ecosystem exposure, and business model execution.
+
+Assessment:
+CCA: 30 Marks
+End Semester Exam: 70 Marks (Case Study + Project)
+
+References:
+Same as Semester 3

@@ -1,0 +1,114 @@
+COURSE DETAILS
+1. Principles and Practices of Management (MG1CCRBBA100)
+Credits: 4 | Core Course
+
+Summary: Introduces key aspects of management: planning, organizing, leading, and controlling, integrating classical and contemporary practices.
+
+Course Outcomes:
+
+Understand management principles to solve business problems.
+
+Contrast management theories (Scientific, Administrative, Bureaucratic, etc.).
+
+Design management strategies and propose innovative solutions.
+
+Course Content:
+
+Unit 1: Introduction: Definition, nature, and significance. Levels of management and managerial skills. Evolution of thought: Classical, Human Relations, Quantitative, Systems, and Contingency approaches.
+
+Unit 2: Planning & Organizing: Types of plans (Strategic, Tactical, Operational). Decision-making steps. Organizational structures (Functional, Divisional, Matrix). Delegation, Centralization vs. Decentralization. MBO & MBE. Staffing (Recruitment and Selection).
+
+Unit 3: Directing & Controlling: Leadership, Motivation, and Communication. Control process, essentials of sound control, and methods.
+
+Unit 4: Strategy & Ethics: SWOT analysis, Ethical issues in management, and Corporate Social Responsibility (CSR).
+
+2. Financial Accounting (MG1CCRBBA101)
+Credits: 4 | Core Course
+
+Summary: Introduces basic accounting principles, the accounting cycle (Journal to Final Accounts), and sustainability accounting.
+
+Course Outcomes:
+
+Identify principles for preparing financial statements.
+
+Demonstrate the accounting cycle process.
+
+Prepare Final Accounts for sole proprietorships and understand Company formats.
+
+Course Content:
+
+Unit 1: Introduction: Accounting system/info, Concepts and Conventions, Capital vs. Revenue, Accounting Equation.
+
+Unit 2: Recording Transactions: Rules of Debit/Credit, Journal, Ledger, Subsidiary books (Theory), Cash Book (Simple and Columnar), Trial Balance.
+
+Unit 3: Final Accounts: Trading and P&L Account, Balance Sheet of sole trading concerns with basic adjustments (Stock, Accrued, Prepaid, Depreciation).
+
+Unit 4: Company & Sustainability: Kinds of company, Share Capital, Financial Statements per Companies Act 2013. Green Accounting and Sustainability Reporting.
+
+3. Business Statistics and Logic (MG1CCRBBA102)
+Credits: 4 | Core Course
+
+Summary: Focuses on quantitative aptitude, arithmetic precision, and statistical tools for data-driven business decisions.
+
+Course Outcomes:
+
+Outline statistical concepts in business contexts.
+
+Demonstrate data handling and logical reasoning skills.
+
+Evaluate and interpret data using statistical models.
+
+Course Content:
+
+Unit 1: Central Tendency & Dispersion: Mean, Median, Mode, Weighted Mean. Range, Quartile Deviation, Mean Deviation, Standard Deviation, Skewness, and Kurtosis.
+
+Unit 2: Correlation & Regression: Karl Pearson’s and Spearman’s Rank correlation. Regression lines (X on Y, Y on X) and equations.
+
+Unit 3: Probability: Basic concepts, Addition/Multiplication rules. Distributions (Binomial, Poisson, Normal).
+
+Unit 4: Logic: Number series, coding-decoding, direction sense, seating arrangements (linear/circular), blood relations, progressions.
+
+4. Business Communication - I (MG1CCRBBA103)
+Credits: 3 | Core Course
+
+Summary: Instilling effective communication skills for the digital, multicultural corporate world.
+
+Course Content:
+
+Unit 1: Organizational Communication: Models, 7Cs of communication, formal/informal channels, barriers, and listening skills.
+
+Unit 2: Written Communication: Layout of Business letters, emails, sales letters, complaint/follow-up letters, job applications, resumes, and resignation letters.
+
+Unit 3: Interpersonal Communication: Team communication (online/virtual), Presentation skills (verbal/non-verbal), Infographics (Prezi, Zoho, etc.).
+
+Unit 4: Digital Communication: Social media literacy, Video conferencing etiquette, Digital collaboration, and personal/organizational websites.
+
+5. Indian Systems of Health and Wellness (MG1MDEBBA100)
+Credits: 2 | Multidisciplinary Elective
+
+Summary: Awareness of physical/mental well-being, lifestyle diseases, and Indian traditional health systems (AYUSH).
+
+Course Content:
+
+Unit 1: Health & Wellness: Definitions, components (Physical, Social, Mental, Spiritual), and determinants of health behavior.
+
+Unit 2: Mind-Body Connection: Digital well-being and the importance of mental health.
+
+Unit 3: Deficiency & Diseases: Malnutrition, sedentary lifestyle risks, and modern lifestyle health risks.
+
+Unit 4: Indian Systems: Health beliefs of India, AYUSH systems, and indigenous perspectives on happiness.
+
+III. MODE OF ASSESSMENT (GENERAL)
+Continuous Comprehensive Assessment (CCA): 30 Marks
+
+Internal Tests (Best of two): 15 Marks
+
+Assignments/Projects/Presentations: 15 Marks
+
+End Semester Evaluation: 70 Marks
+
+Short Answer Questions (5 x 2/3 Marks)
+
+Short Essay (3/4 x 5 Marks)
+
+Long Essay/Case Study (2 x 10/20 Marks)

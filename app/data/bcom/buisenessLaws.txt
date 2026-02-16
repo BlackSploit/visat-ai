@@ -1,0 +1,146 @@
+SEMESTER 1: CORPORATE REGULATIONS AND COMPLIANCE
+Course Code: MG1DSCBLW100 | Credits: 4 | Total Hours: 75
+
+Course Summary
+Equips students with the knowledge of Indian Corporate Law based on the Companies Act 2013. Covers corporate administration, incorporation, governance, and the role of the Company Secretary.
+
+Course Outcomes
+Understand key concepts related to companies.
+
+Analyse procedures for incorporation.
+
+Understand duties of directors, shareholders, and promoters.
+
+Apply provisions to transactions, meetings, and winding up.
+
+Understand the role of a Company Secretary.
+
+Communicate legal issues professionally.
+
+Course Content
+Module 1: Company Legal Background & Incorporation
+
+Characteristics and history of Company Law; NCLT, NCLAT, and SFIO.
+
+Kinds of Companies: Private, Public, OPC, Section 8, LLP, Foreign, Government, Holding/Subsidiary.
+
+Lifting the Corporate Veil; Promoters' roles.
+
+Memorandum of Association (MoA) & Articles of Association (AoA): Contents, Alteration, Ultravires, Indoor Management.
+
+Prospectus: Types, formalities, and misrepresentation.
+
+Module 2: Shares, Membership, and Administration
+
+Shares: Types, Transfer, Transmission, and Share Capital alteration.
+
+Debentures: Fixed and Floating charges; Crystallisation.
+
+Membership: Modes of acquisition, rights, and privileges.
+
+Directors: Appointment, qualifications, duties, and liabilities.
+
+Company Secretary: Role, position, and responsibilities.
+
+Module 3: Administration, Winding Up, and Governance
+
+Company Meetings: Kinds, requisites of a valid meeting, and resolutions.
+
+Winding Up: Meaning, types, and role of Official Liquidator.
+
+Corporate Governance & CSR: Importance and statutory provisions.
+
+Module 4: Practical Formalities (CCA)
+
+Preparation of MoA, AoA, and Prospectus.
+
+Online registration via MCA site (DSC, DIN, MCA 21).
+
+Drafting Notice, Agenda, and Minutes.
+
+Virtual meetings, Polls, and Proxies.
+
+SEMESTER 2: BUSINESS REGULATORY FRAMEWORK
+Course Code: MG2DSCBLW100 | Credits: 4 | Total Hours: 75
+
+Course Summary
+Familiarizes students with commercial and mercantile laws governing business transactions, specifically the Indian Contract Act and Sale of Goods Act.
+
+Course Content
+Module 1: Introduction to Mercantile Law
+
+Sources of Law.
+
+Indian Contract Act: Essentials of a valid contract, Offer, Acceptance, Consideration, Capacity, and Free Consent.
+
+Module 2: Legality and Performance of Contracts
+
+Void contracts, Quasi-contracts, Contingent contracts, and E-contracts.
+
+Performance, Discharge, and Breach of Contract (Remedies).
+
+Module 3: Special Contracts
+
+Bailment and Pledge: Rights and duties of parties.
+
+Indemnity and Guarantee: Kinds of guarantee, rights/liabilities of surety.
+
+Agency: Creation, types of agents, and termination.
+
+Module 4: Sale of Goods Act
+
+Contract of Sale vs. Agreement to Sell.
+
+Conditions and Warranties; Caveat Emptor.
+
+Transfer of ownership and performance.
+
+Unpaid Seller: Rights and Auction sales.
+
+SEMESTER 3 & 4: GST LAWS: FUNDAMENTALS
+Course Code: MG3/4DSCBLW200 | Credits: 4 | Total Hours: 75
+
+Course Summary
+Overview of GST in the Indian Taxation system, covering principles, practical applications, and operational aspects.
+
+Course Content
+Module 1: Introduction to GST & Supply
+
+Evolution and Constitutional background.
+
+Structure of GST (CGST, SGST, IGST), GST Council, and GSTN.
+
+Concepts: Aggregate turnover, RCM, ECO, HSN/SAC codes.
+
+Scope and Types of Supply.
+
+Module 2: Time, Place, and Value of Supply
+
+Provisions and practical situations for determining Time, Place, and Value of supply.
+
+Module 3: Input Tax Credit (ITC), Invoice, and E-Way Bills
+
+Manner of claiming ITC and benefits.
+
+Tax Invoice types; Composition Scheme, TDS, and TCS.
+
+E-Way Bill provisions.
+
+Module 4: Practical Aspects of GST
+
+Familiarizing with the GST Common Portal.
+
+Generating E-Way bills and GST-compliant invoices.
+
+GST Registration process and Compliance Rating.
+
+ASSESSMENT STRUCTURE
+Continuous Comprehensive Assessment (CCA): 30 Marks
+
+Presentations, Drafting reports, Mock meetings/trials, MCQ tests, and Field visits.
+
+End Semester Examination: 70 Marks
+
+Section A: 20 MCQs (1 mark each).
+
+Section B: 25 MCQs (2 marks each).
