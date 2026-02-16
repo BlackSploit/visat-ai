@@ -24,7 +24,7 @@ export default function Header() {
 
 {/* LOGO */}
 <Link
-  href="/"
+  href="https://visat.in"
   aria-label="home"
   className="flex items-center h-full shrink-0"
 >
@@ -61,10 +61,10 @@ export default function Header() {
 
     {/* DESKTOP BUTTONS */}
     <div className="hidden lg:flex items-center justify-end gap-3">
-      <Link href="/admission" className="btn-primary text-sm font-primary">
+      <Link href="https://visat.in/admission.html" className="btn-primary text-sm font-primary">
         Apply Now
       </Link>
-      <Link href="/contact" className="btn-secondary text-sm">
+      <Link href="https://visat.in/contact.html" className="btn-secondary text-sm">
         Contact
       </Link>
     </div>
@@ -80,7 +80,7 @@ export default function Header() {
       <span className="w-6 h-[2px] bg-white" />
     </button>
   </div>
-</header>
+     </header>
 
       {/* ================= MOBILE MENU ================= */}
       <div
