@@ -25,7 +25,7 @@ export default function Footer() {
               Visit Our Campus
             </h2>
 
-            <p className="text-md md:text-white ">
+            <p className="text-md text-white">
               Discover VISAT Engineering College — a nationally recognized center
               of excellence built on innovation, integrity, and academic
               leadership. Explore our campus, meet our faculty, and experience an
