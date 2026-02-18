@@ -1,6 +1,6 @@
 'use client';
 
-import { useRef } from 'react';
+import { useRef, useEffect } from 'react';
 import { Teacher } from '../data/teachers';
 
 export default function SmallVideoCard({
@@ -12,12 +12,34 @@ export default function SmallVideoCard({
 }) {
   const videoRef = useRef<HTMLVideoElement>(null);
 
+  // Auto play when visible (mobile fix)
+  useEffect(() => {
+    const video = videoRef.current;
+    if (!video) return;
+
+    video.muted = true;
+    video.playsInline = true;
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          video.play().catch(() => {});
+        } else {
+          video.pause();
+        }
+      },
+      { threshold: 0.5 }
+    );
+
+    observer.observe(video);
+
+    return () => observer.disconnect();
+  }, []);
+
   return (
     <div
       onClick={onClick}
       className="relative h-[340px] rounded-2xl overflow-hidden cursor-pointer group"
-      onMouseEnter={() => videoRef.current?.play()}
-      onMouseLeave={() => videoRef.current?.pause()}
     >
       <video
         ref={videoRef}
@@ -26,7 +48,8 @@ export default function SmallVideoCard({
         loop
         playsInline
         preload="metadata"
-        className="w-full h-full object-cover group-hover:scale-105 transition"
+        autoPlay
+        className="w-full h-full object-cover transition md:group-hover:scale-105"
       />
 
       {/* GLASS BUTTON */}
