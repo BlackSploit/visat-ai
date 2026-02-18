@@ -46,8 +46,40 @@ image: "images/pics/BS lab.png",
 depts: ["1","2","3","4"]
 
   },
+
   {
     id: 2,
+    name: "Asst. Prof. Nimmy John T",
+    department: "Electronics and Communication",
+    qualification: "PhD in Quantum Physics",
+    previewVideo: "videos/ECE.mp4",
+    fullVideo: "videos/ECE FULL.mp4",
+    whatsappNumber: "+1234567892",
+    bio: "Researcher in quantum mechanics with a passion for teaching fundamental physics.",
+    specs: ["Maths", "Chemistry", "Physics"], 
+        headshot: "images/headshots/ECE lab.png",
+quote: "“At the heart of connectivity and innovation, we cultivate minds that design intelligent systems, advanced electronics, and seamless communication networks — enabling students to connect ideas, people, and technology across the globe.”",
+image: "images/pics/ECE lab.png",
+depts:["Embedded Systems & Arduino","VLSI Design (Verilog / FPGA)","IoT & Sensor Networks","PCB Design & Fabrication","Wireless & 5G Communication"]
+  },
+  {
+    id: 3,
+    name: "Asst. Prof. Akhil Beshy",
+    department: "Electrical",
+    qualification: "PhD in Organic Chemistry",
+    previewVideo: "videos/EEE.mp4",
+    fullVideo: "videos/EEE FULL.mp4",
+    whatsappNumber: "+1234567893",
+    bio: "Specializes in organic synthesis and chemical engineering applications.",
+    specs: ["Maths", "Chemistry", "Physics"], 
+        headshot: "images/headshots/EEE.jpg",
+quote: "“We educate future engineers to harness energy, master power systems, and design smart technologies that fuel sustainable progress. Our mission is to spark curiosity, precision, and responsibility in every electrical mind.”",
+image: "images/pics/EEE lab.png",
+depts: ["PLC & SCADA Automation","Solar PV System Design","Electric Vehicle Technology","Power Electronics & Drives","MATLAB & Simulink"]
+  },
+
+    {
+    id: 4,
     name: "Asst. Prof. Divya Nair",
     department: "Computer Science",
     qualification: "PhD in Applied Mathematics",
@@ -64,36 +96,6 @@ depts: ["Full Stack Development",
   "Cybersecurity & Ethical Hacking",
   "DevOps (Docker, Kubernetes)",
   "Mobile App Development"]
-  },
-  {
-    id: 3,
-    name: "Asst. Prof. Nimmy John T",
-    department: "Electronics and Communication",
-    qualification: "PhD in Quantum Physics",
-    previewVideo: "videos/ECE.mp4",
-    fullVideo: "videos/ECE FULL.mp4",
-    whatsappNumber: "+1234567892",
-    bio: "Researcher in quantum mechanics with a passion for teaching fundamental physics.",
-    specs: ["Maths", "Chemistry", "Physics"], 
-        headshot: "images/headshots/ECE lab.png",
-quote: "“At the heart of connectivity and innovation, we cultivate minds that design intelligent systems, advanced electronics, and seamless communication networks — enabling students to connect ideas, people, and technology across the globe.”",
-image: "images/pics/ECE lab.png",
-depts:["Embedded Systems & Arduino","VLSI Design (Verilog / FPGA)","IoT & Sensor Networks","PCB Design & Fabrication","Wireless & 5G Communication"]
-  },
-  {
-    id: 4,
-    name: "Asst. Prof. Akhil Beshy",
-    department: "Electrical",
-    qualification: "PhD in Organic Chemistry",
-    previewVideo: "videos/EEE.mp4",
-    fullVideo: "videos/EEE FULL.mp4",
-    whatsappNumber: "+1234567893",
-    bio: "Specializes in organic synthesis and chemical engineering applications.",
-    specs: ["Maths", "Chemistry", "Physics"], 
-        headshot: "images/headshots/EEE.jpg",
-quote: "“We educate future engineers to harness energy, master power systems, and design smart technologies that fuel sustainable progress. Our mission is to spark curiosity, precision, and responsibility in every electrical mind.”",
-image: "images/pics/EEE lab.png",
-depts: ["PLC & SCADA Automation","Solar PV System Design","Electric Vehicle Technology","Power Electronics & Drives","MATLAB & Simulink"]
   },
   {
     id: 5,
